@@ -1,2 +1,2 @@
 # html_css_tricks
-![](gif.gif)
+![alt text](https://github.com/andreinovikoff/html_css_tricks/blob/master/src/gif.gif)
